@@ -1,9 +1,9 @@
 {
   "packageManager": "pnpm@9.14.4",
-  "name": "Lackin-Stream",
+  "name": "lackin-Stream",
   "version": "5.0.5",
   "private": true,
-  "homepage": "https://github.com/cardings/lackin-stream",
+  "homepage": "https://github.com/p-stream/p-stream",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
