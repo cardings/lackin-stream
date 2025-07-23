@@ -1,6 +1,6 @@
 {
   "packageManager": "pnpm@9.14.4",
-  "name": "P-Stream",
+  "name": "Lackin-Stream",
   "version": "5.0.5",
   "private": true,
   "homepage": "https://github.com/p-stream/p-stream",
