@@ -3,7 +3,7 @@
   "name": "Lackin-Stream",
   "version": "5.0.5",
   "private": true,
-  "homepage": "https://github.com/p-stream/p-stream",
+  "homepage": "https://github.com/cardings/lackin-stream",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
