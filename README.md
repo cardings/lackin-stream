@@ -1,5 +1,4 @@
 # Lackin-Stream
-[![lackin-Stream Image](.github/lackin-Stream.png)](https://docs.pstream.mov)  
 
 **I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
 
@@ -16,7 +15,7 @@
 ## Links And Resources
 | Service        | Link                                                             | Source Code                                              |
 |----------------|------------------------------------------------------------------|----------------------------------------------------------|
-| P-Stream Docs | [docs](https://docs.pstream.mov)                          | [source code](https://github.com/p-stream/docs)        |
+| Lackin-Stream Docs | [docs](https://docs.pstream.mov)                          | [source code](https://github.com/p-stream/docs)        |
 | Extension      | [extension](https://docs.pstream.mov/extension)                | [source code](https://github.com/p-stream/browser-ext) |
 | Proxy          | [simple-proxy](https://docs.pstream.mov/proxy)              | [source code](https://github.com/p-stream/sudo-proxy)  |             
 | Backend        | [backend](https://server.fifthwit.net)                    | [source code](https://github.com/p-stream/backend)     |
