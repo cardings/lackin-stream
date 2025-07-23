@@ -1,5 +1,5 @@
-# P-Stream
-[![P-Stream Image](.github/P-Stream.png)](https://docs.pstream.mov)  
+# Lackin-Stream
+[![lackin-Stream Image](.github/lackin-Stream.png)](https://docs.pstream.mov)  
 
 **I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
 
